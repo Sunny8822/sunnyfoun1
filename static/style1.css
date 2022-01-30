@@ -1,0 +1,53 @@
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: chocolate;
+    color: cornsilk;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin-left: 180px;
+
+}
+.myInput{
+    display: block;
+    width: 400px;
+    border-radius: 8px;
+    margin: 8px;
+    padding: 12px;
+}
+.container1{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+h1{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 34px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav ul{
+    display: flex;
+    justify-content: start;
+ 
+    
+
+}
+nav{
+    
+    height: 38px;
+    background-color: rgb(194, 92, 55);
+}
+nav ul li{
+    padding: 2px 18px;
+    font-size: 28px;
+    list-style: none;
+    
+}
+nav ul li a{
+    text-decoration: none;
+}

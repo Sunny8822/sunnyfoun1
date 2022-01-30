@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav ul{
+    display: flex;
+    justify-content: start;
+    
+ 
+    
+
+}
+nav{
+    
+    height: 48px;
+    background-color: rgb(211, 88, 31);
+   
+
+}
+nav ul li{
+    padding: 2px 18px;
+    font-size: 28px;
+    list-style: none;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+.myInput{
+    display: block;
+    width: 400px;
+    border-radius: 8px;
+    margin: 8px;
+    padding: 12px;
+}
+.box{
+    width: 900px;
+    height: 1750px;
+    border: 2px solid black;
+    margin: 40px auto;
+    border-radius: 12px;
+    background-color: darkkhaki;
+}
+body{
+    background-color: coral;
+}
+h1{
+    text-align: center;
+
+}
+
+.item{
+    width: 900px;
+    height: 420px;
+
+}
+.media{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin-left: 160px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+.crypto{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin-left: 160px;
+    border: 2px solid black;
+    border-radius: 12px;
+
+}
+.item1{
+    width: 900px;
+    height: 500px;
+
+}
+
+.tech{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin-left: 160px;
+    border: 2px solid black;
+    border-radius: 12px;
+
+}
+.item2{
+    width: 900px;
+    height: 420px;
+
+}
+.special{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    margin-left: 160px;
+    border: 2px solid black;
+    border-radius: 12px;
+
+}
+
+footer{
+    height: 45px;
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    padding-top: 18px;
+    text-align: center;
+    
+    font-size: 25px;
+}
